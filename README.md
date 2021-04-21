@@ -1,0 +1,1 @@
+Notetaker App in which you can take notes/make a list whenever you open a new tab in the browser. This is based on Tania Rascia's awesome tutorial on local storage in javascript. Learned lots, hope to do lots more! :)
